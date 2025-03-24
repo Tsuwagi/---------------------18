@@ -29,8 +29,7 @@ int main() {
         }
     }
 
-    cout << "\nMinimum element on the main diagonal: " << min << endl;
-    cout << "located in row " << index + 1 << endl;
+    cout << "\nMinimum element on the main diagonal: " << min << "and located in row" << index + 1 << endl;
 
     return 0;
 }
